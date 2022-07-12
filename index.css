@@ -1,0 +1,44 @@
+body {
+    background-color: #22272b;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    background-color: #151719;
+    border: 0;
+    font: 1.2em;
+    position: absolute;
+}
+
+body,
+button {
+    font-family: 'SF Pro Display', sans-serif;
+    color: #fcc920;
+}
+
+form {
+    position: absolute;
+    left: 44.5vw;
+    width: 10vw;
+    top: 27vh;
+}
+
+input,
+.Go {
+    width: 10vw;
+}
+
+.sWork {
+    left: 0;
+    padding: 0.6rem;
+    top: 0;
+}
+
+.Go {
+    padding: 0;
+    top: 27vh;
+}
