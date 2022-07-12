@@ -1,6 +1,8 @@
 # Manejo de forms y apis
 
-Uso de forms en HTML para manejar datos para una api.
+[![K-054.jpg](https://i.postimg.cc/yx8F7mD1/K-054.jpg)](https://postimg.cc/tZ815Vdw)
+
+Uso de forms en HTML para manejar datos de una api.
 
 ### HTML
 Usando la api de [números aleatorios](https://www.twitch-rand.com), generamos números aleatorios entre m y n usando inputs de tipo **range**. Esto de dos maneras:
